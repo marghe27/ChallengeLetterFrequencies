@@ -31,6 +31,7 @@ npm install
 
 ```
 node solution acronimi_divertenti.txt or node solution presa.jpg
+```
 
 ### License
 
